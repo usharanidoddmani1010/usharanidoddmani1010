@@ -122,17 +122,6 @@ A comprehensive internship platform designed to connect students with internship
 
 ---
 
-### 3. **Campus Connect**
-> University Community Platform
-
-**Technologies:** TypeScript, React
-
-A platform designed to enhance campus connectivity and communication among students.
-
-**Repository:** [campus-connect](https://github.com/usharanidoddmani1010/campus-connect)
-
----
-
 ## 🎓 Education
 
 ### **B.E. Computer Science and Engineering**
@@ -158,13 +147,7 @@ A platform designed to enhance campus connectivity and communication among stude
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usharanidoddmani1010&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usharanidoddmani1010&layout=compact&theme=radical)
-
----
 
 ## 📚 DSA & Competitive Programming
 
