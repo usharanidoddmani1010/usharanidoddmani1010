@@ -77,16 +77,6 @@ Data Structures & Algorithms | Object-Oriented Programming | Database Management
 
 ## 💼 Professional Experience
 
-### **Full Stack Web Developer** @ Cerso
-*June 2026 – Present*
-
-- Developed and deployed full-stack web applications using **React**, **Node.js**, and **Express.js**
-- Integrated **REST APIs** and optimized API/database queries achieving **75% response-efficiency improvement**
-- Deployed applications on **AWS EC2** and **AWS S3** cloud infrastructure
-- Conducted API testing and debugging using **Postman**
-- Collaborated in **Agile** sprints with code reviews and sprint planning
-- Implemented scalable features and best practices
-
 ### **Full Stack Developer** @ Gradient 2025 & 2026 Hackathon (BMSCE)
 *March 2026*
 
